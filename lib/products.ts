@@ -204,7 +204,7 @@ export const products: Product[] = [
     description:
       "Roomy canvas tote with leather handles. Everyday carry for work, travel, and weekend trips.",
     image:
-      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+      "https://images.pexels.com/photos/35685428/pexels-photo-35685428.jpeg?auto=compress&cs=tinysrgb&w=800",
   },
   {
     id: "20",
@@ -224,7 +224,7 @@ export const products: Product[] = [
     description:
       "Polarized lenses in a lightweight metal frame. 100% UV protection without the weight.",
     image:
-      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
+      "https://images.pexels.com/photos/5202048/pexels-photo-5202048.jpeg?auto=compress&cs=tinysrgb&w=800",
   },
   {
     id: "22",
