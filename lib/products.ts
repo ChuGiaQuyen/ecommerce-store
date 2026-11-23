@@ -135,6 +135,107 @@ export const products: Product[] = [
     image:
       "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=800&q=80",
   },
+  {
+    id: "13",
+    name: "Polo Shirt",
+    price: 55,
+    category: "Men",
+    description:
+      "Classic cotton polo with a relaxed fit and two-button placket. Smart-casual in its purest form.",
+    image:
+      "https://images.unsplash.com/photo-1588119925581-9c0d5e7b18ad?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    id: "14",
+    name: "Cargo Pants",
+    price: 84,
+    category: "Men",
+    description:
+      "Utility-inspired cargo pants in durable twill. Multiple pockets and a comfortable tapered fit.",
+    image:
+      "https://images.unsplash.com/photo-1541963463532-d68292c34b19?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    id: "15",
+    name: "Leather Boots",
+    price: 199,
+    category: "Men",
+    description:
+      "Full-grain leather boots with a Goodyear welt. Built to last and age beautifully over years.",
+    image:
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
+    featured: true,
+  },
+  {
+    id: "16",
+    name: "Cropped Blouse",
+    price: 49,
+    category: "Women",
+    description:
+      "Lightweight cropped blouse with puffed sleeves. Pairs perfectly with high-waisted bottoms.",
+    image:
+      "https://images.unsplash.com/photo-1594736797933-d0f4b6c9f5c8?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    id: "17",
+    name: "Denim Jacket",
+    price: 119,
+    category: "Women",
+    description:
+      "Vintage-wash denim jacket with a boxy fit. The layering piece you'll reach for all season.",
+    image:
+      "https://images.unsplash.com/photo-1506806799398-1f7b1b4a8b3c?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    id: "18",
+    name: "Block Heel Sandals",
+    price: 89,
+    category: "Women",
+    description:
+      "Elegant block-heel sandals with a cushioned footbed. Walkable height meets polished style.",
+    image:
+      "https://images.unsplash.com/photo-1542280756-74b2f55e73ab?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    id: "19",
+    name: "Tote Bag",
+    price: 64,
+    category: "Accessories",
+    description:
+      "Roomy canvas tote with leather handles. Everyday carry for work, travel, and weekend trips.",
+    image:
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    id: "20",
+    name: "Baseball Cap",
+    price: 35,
+    category: "Accessories",
+    description:
+      "Embroidered cotton baseball cap with an adjustable strap. Effortless off-duty style.",
+    image:
+      "https://images.unsplash.com/photo-1551524164-6ca6c45d1b3a?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    id: "21",
+    name: "Sunglasses",
+    price: 109,
+    category: "Accessories",
+    description:
+      "Polarized lenses in a lightweight metal frame. 100% UV protection without the weight.",
+    image:
+      "https://images.unsplash.com/photo-1570295999919-565d93cf36f4?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    id: "22",
+    name: "Leather Belt",
+    price: 45,
+    category: "Accessories",
+    description:
+      "Full-grain leather belt with a simple brass buckle. The finishing touch for any outfit.",
+    image:
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+  },
 ];
 
 export const categories = ["All", "Men", "Women", "Accessories"] as const;
