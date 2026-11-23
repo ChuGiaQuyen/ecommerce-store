@@ -143,7 +143,7 @@ export const products: Product[] = [
     description:
       "Classic cotton polo with a relaxed fit and two-button placket. Smart-casual in its purest form.",
     image:
-      "https://images.unsplash.com/photo-1588119925581-9c0d5e7b18ad?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1596246238318-a86d85231183?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: "14",
@@ -174,7 +174,7 @@ export const products: Product[] = [
     description:
       "Lightweight cropped blouse with puffed sleeves. Pairs perfectly with high-waisted bottoms.",
     image:
-      "https://images.unsplash.com/photo-1594736797933-d0f4b6c9f5c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1789110520253-7e31dbdd2aad?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: "17",
@@ -184,7 +184,7 @@ export const products: Product[] = [
     description:
       "Vintage-wash denim jacket with a boxy fit. The layering piece you'll reach for all season.",
     image:
-      "https://images.unsplash.com/photo-1506806799398-1f7b1b4a8b3c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1577660002965-04865592fc60?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: "18",
@@ -214,7 +214,7 @@ export const products: Product[] = [
     description:
       "Embroidered cotton baseball cap with an adjustable strap. Effortless off-duty style.",
     image:
-      "https://images.unsplash.com/photo-1551524164-6ca6c45d1b3a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: "21",
@@ -224,7 +224,7 @@ export const products: Product[] = [
     description:
       "Polarized lenses in a lightweight metal frame. 100% UV protection without the weight.",
     image:
-      "https://images.unsplash.com/photo-1570295999919-565d93cf36f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1584036553516-bf83210aa16c?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: "22",
