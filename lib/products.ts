@@ -224,7 +224,7 @@ export const products: Product[] = [
     description:
       "Polarized lenses in a lightweight metal frame. 100% UV protection without the weight.",
     image:
-      "https://images.unsplash.com/photo-1758552322632-ba288778c770?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
   },
   {
     id: "22",

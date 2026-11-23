@@ -130,7 +130,7 @@ values
   ('Block Heel Sandals', 89, 'Women', 'Elegant block-heel sandals with a cushioned footbed. Walkable height meets polished style.', 'https://images.unsplash.com/photo-1542280756-74b2f55e73ab?auto=format&fit=crop&w=800&q=80', false),
   ('Tote Bag', 64, 'Accessories', 'Roomy canvas tote with leather handles. Everyday carry for work, travel, and weekend trips.', 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80', false),
   ('Baseball Cap', 35, 'Accessories', 'Embroidered cotton baseball cap with an adjustable strap. Effortless off-duty style.', 'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=800&q=80', false),
-  ('Sunglasses', 109, 'Accessories', 'Polarized lenses in a lightweight metal frame. 100% UV protection without the weight.', 'https://images.unsplash.com/photo-1758552322632-ba288778c770?auto=format&fit=crop&w=800&q=80', false),
+  ('Sunglasses', 109, 'Accessories', 'Polarized lenses in a lightweight metal frame. 100% UV protection without the weight.', 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80', false),
   ('Leather Belt', 45, 'Accessories', 'Full-grain leather belt with a simple brass buckle. The finishing touch for any outfit.', 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80', false)
 on conflict do nothing;
 
